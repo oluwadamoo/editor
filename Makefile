@@ -1,2 +1,2 @@
 all:
-	gcc main.c -o main -lncurses -Wall -Wextra
+	gcc editor.c -o editor -lncurses -Wall -Wextra
